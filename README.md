@@ -1,0 +1,4 @@
+Sillycalc
+=========
+
+A silly calculator
